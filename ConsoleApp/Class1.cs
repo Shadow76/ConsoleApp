@@ -9,5 +9,6 @@ namespace ConsoleApp
 	class Class1
 	{
 		/* клиентские изменения 1*/
+		/* клиентские изменения 2*/
 	}
 }
