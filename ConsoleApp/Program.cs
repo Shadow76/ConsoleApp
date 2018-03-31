@@ -15,6 +15,7 @@ namespace ConsoleApp
 			Console.WriteLine("three");
 			Console.WriteLine("four");
 			Console.WriteLine("серверные изменения 1");
+			Console.WriteLine("серверные изменения 2");
 		}
 	}
 }
