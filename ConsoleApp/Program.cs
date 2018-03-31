@@ -14,6 +14,7 @@ namespace ConsoleApp
 			Console.WriteLine("two");
 			Console.WriteLine("three");
 			Console.WriteLine("four");
+			Console.WriteLine("изменения матера во время разработки feature1");
 		}
 	}
 }
