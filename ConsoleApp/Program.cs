@@ -15,6 +15,8 @@ namespace ConsoleApp
 			Console.WriteLine("three");
 			Console.WriteLine("four");
 			Console.WriteLine("изменения матера во время разработки feature1");
+			Console.WriteLine("серверные изменения 1");
+			Console.WriteLine("серверные изменения 2");
 		}
 	}
 }
