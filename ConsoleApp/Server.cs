@@ -6,9 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp
 {
-	class Class1
+	class Server
 	{
-		/* клиентские изменения 1*/
-		/* клиентские изменения 2*/
 	}
 }
