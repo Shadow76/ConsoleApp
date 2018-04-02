@@ -10,6 +10,7 @@ namespace ConsoleApp
 	{
 		static void Main(string[] args)
 		{
+			/*Изменения в мастере 1*/
 		}
 	}
 }
