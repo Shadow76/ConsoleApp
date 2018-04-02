@@ -9,5 +9,6 @@ namespace ConsoleApp
 	class Server
 	{
 		/* Серверные изменения 1*/
+		/* Серверные изменения 2*/
 	}
 }
